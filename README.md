@@ -1,2 +1,2 @@
 # POO-2026-1
-repositório de teste para matéria de POO
+Repositório de códigos para matéria de POO  
