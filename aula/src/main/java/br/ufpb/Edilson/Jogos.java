@@ -30,7 +30,7 @@ public class Jogos {
     @Override
     public boolean equals(Object o) {
         if (o == null || getClass() != o.getClass()) return false;
-        Jogos jogo = (Jogos) o;
+        Jogos  jogo = (Jogos) o;
         return Objects.equals(codigo, jogo.codigo);
     }
 
